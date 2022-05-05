@@ -1,0 +1,29 @@
+html, body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+    position: absolute;
+}
+
+.container{
+    position: relative;
+    padding-left: 1em;
+    padding-right: 1em;
+    max-width: 90%;
+}
+
+.col-6{
+    width: 50%;
+    float: left;
+}
+
+.img-cv{
+    max-width: 100%;
+    padding: 1rem;
+}
+
+
+.text-cv{
+    color: gray;
+    font-size:18px;
+}
